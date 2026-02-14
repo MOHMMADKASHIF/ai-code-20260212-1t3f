@@ -16,5 +16,7 @@ const doubleSum = (a, b) => {
   return result;
 }
 
-const result = doubleSum(12, 90);
+const result = doubleSum(12                    
+  
+
 console.log(`Result of two numbers is ${result}`);
