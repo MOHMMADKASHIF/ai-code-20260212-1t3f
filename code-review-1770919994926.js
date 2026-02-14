@@ -1,1 +1,1 @@
-const result = doubleSum(12                    ;
+const result = doubleSum(12                    ;)
